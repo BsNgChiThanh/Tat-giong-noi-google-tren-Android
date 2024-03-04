@@ -5,6 +5,7 @@
 
 ## CÀI ĐẶT: ##
 
+  - Cài đặt xong mở lên:
   - ![image](https://github.com/BsNgChiThanh/Tat-giong-noi-google-tren-Android/assets/82578024/bff5303c-88e5-499c-85b7-b8c3735a6406)
   - Tắt tốc độ lời nói và âm điệu về zero.
   - ![image](https://github.com/BsNgChiThanh/Tat-giong-noi-google-tren-Android/assets/82578024/6c70193b-8443-4f70-a106-076761443cba)
