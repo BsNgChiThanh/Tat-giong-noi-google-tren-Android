@@ -28,7 +28,8 @@
     - Không thể chọn đồng thời 2 lựa chọn.
     - Khi chọn: "Tự động ghi âm cuộc gọi đến/đi từ các số này" thì bạn phải chọn trong danh bạ ta các số cần ghi âm tất cả các cuộc gọi đến và đi.
 
+## XÓA BẢN GHI ÂM: ##
 
-
-
-
+  - ![image](https://github.com/BsNgChiThanh/Tat-giong-noi-google-tren-Android/assets/82578024/0e3453b1-92c6-44f8-abee-5e074f00fdd9)
+  - Bạn có thể cài đặt tự động xóa bản ghi âm sau một số ngày cụ thể.
+  - Hoặc có thể bấm vào xóa tất cả bản ghi âm ngay, là chúng xóa sạch sẽ sau một thao tác đơn giản này.
