@@ -28,6 +28,13 @@
     - Không thể chọn đồng thời 2 lựa chọn.
     - Khi chọn: "Tự động ghi âm cuộc gọi đến/đi từ các số này" thì bạn phải chọn trong danh bạ ta các số cần ghi âm tất cả các cuộc gọi đến và đi.
 
+## BẬT GHI ÂM TRONG LÚC ĐIỆN HOẶC NGHE ##
+
+  - ![image](https://github.com/BsNgChiThanh/Tat-giong-noi-google-tren-Android/assets/82578024/59559e22-bacd-46f7-a031-92a76542f6c8)
+  - Bấm vào dấu ba chấm tại mục thêm như hình trên.
+  - ![image](https://github.com/BsNgChiThanh/Tat-giong-noi-google-tren-Android/assets/82578024/3782186f-dfef-414c-820e-fa7efc728cca)
+  - Chọn ghi để ghi âm. 
+
 ## XÓA BẢN GHI ÂM: ##
 
   - ![image](https://github.com/BsNgChiThanh/Tat-giong-noi-google-tren-Android/assets/82578024/0e3453b1-92c6-44f8-abee-5e074f00fdd9)
